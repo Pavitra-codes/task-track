@@ -1,2 +1,2 @@
 # task-track
-A command-line to-do list tool with task priorities, due dates, notes, a built-in monthly calendar, and current time display.
+A command-line to-do list tool that lets you manage tasks with priorities, due dates, and personal notes. It includes a built-in monthly calendar and live clock display, along with the ability to mark tasks as complete or delete them entirely. Built to deepen my understanding of file handling, Python's datetime and calendar modules, and structuring a multi-feature program through clean, reusable functions — while creating something genuinely useful for everyday task management.
